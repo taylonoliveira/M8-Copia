@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1727271403 source:c:\users\jpsdp\onedrive\햞ea de trabalho\teste3\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1727275354 source:c:\users\jpsdp\onedrive\햞ea de trabalho\teste3\main\biblioteca.c
+	"biblioteca.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1727275360 c:\users\jpsdp\onedrive\햞ea de trabalho\teste3\main\biblioteca.h
+
+1727035487 source:c:\users\jpsdp\onedrive\햞ea de trabalho\teste3\main\ula.c
+	<stdio.h>
+	<stdlib.h>
+
+1727042705 source:c:\users\jpsdp\onedrive\햞ea de trabalho\teste3\main\bancoregistradores.c
+	<stdio.h>
+	<stdlib.h>
+
+1728248735 source:c:\users\jpsdp\onedrive\햞ea de trabalho\m4\main\biblioteca.c
+	"biblioteca.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1728049901 c:\users\jpsdp\onedrive\햞ea de trabalho\m4\main\biblioteca.h
+
+1728052583 source:c:\users\jpsdp\onedrive\햞ea de trabalho\m4\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"biblioteca.h"
+
+1728052583 source:e:\documents\aulas facul\projeto integrador ii\m4\m4\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"biblioteca.h"
+
+1728049901 e:\documents\aulas facul\projeto integrador ii\m4\m4\main\biblioteca.h
+
+1728334841 source:e:\documents\aulas facul\projeto integrador ii\m4\m4\main\biblioteca.c
+	"biblioteca.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1729509360 source:e:\documents\aulas facul\projeto integrador ii\multiciclo\m8\main\biblioteca.c
+	"biblioteca.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1729507126 e:\documents\aulas facul\projeto integrador ii\multiciclo\m8\main\biblioteca.h
+
+1729508378 source:e:\documents\aulas facul\projeto integrador ii\multiciclo\m8\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"biblioteca.h"
+
+1729508634 source:e:\documents\aulas facul\projeto integrador ii\m8 - copia\main\biblioteca.c
+	"biblioteca.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
+1729507126 e:\documents\aulas facul\projeto integrador ii\m8 - copia\main\biblioteca.h
+
+1729508378 source:e:\documents\aulas facul\projeto integrador ii\m8 - copia\main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"biblioteca.h"
+
+1729507126 e:\documents\aulas facul\projeto integrador ii\m8 - copia\main\biblioteca.c
+	"biblioteca.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
